@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @diggy680
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning javaScript
+- 👋 Hi, I’m Alex Berdote
+- 👀 I’m interested in financial analytics
+- 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me N/A
+- 📫 How to reach me berdotea@gmail.com
 
 <!---
 diggy680/diggy680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
